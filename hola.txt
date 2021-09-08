@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 aqui Tati
-=======
 aqui caro
->>>>>>> 9ec62ad69789e78e28d1d5db73e93cee5872c850
